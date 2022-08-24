@@ -25,6 +25,7 @@ img {
 }
 
 .texto {
+    font-family: 'Comic Neue', Arial, Helvetica, sans-serif;
     padding-left: 10px;
     background-color: lightgray;
     width: 320px;
