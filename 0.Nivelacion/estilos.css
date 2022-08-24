@@ -1,0 +1,33 @@
+.contenedor {
+    margin-left:100px;
+    margin-top: 50px;
+    display: inline-flex;
+    width: 685px;
+    border-radius: 2%;
+    
+
+}
+article {
+    width: 150px;
+}
+aside {
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+    border: 3px solid black;
+    border-left: 0px transparent;
+}
+img {
+    border-top-left-radius: 5%;
+    border-bottom-left-radius: 5%;
+    border: 3px solid black;
+    border-right: 0px transparent;
+    
+}
+
+.texto {
+    padding-left: 10px;
+    background-color: lightgray;
+    width: 320px;
+    height: 200px;
+    border-radius: 3px solid black;
+}
