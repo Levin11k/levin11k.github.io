@@ -13,13 +13,13 @@ article {
 aside {
     border-top-right-radius: 5%;
     border-bottom-right-radius: 5%;
-    border: 3px solid brown;
+    border: 3px solid blue;
     border-left: 0px transparent;
 }
 img {
     border-top-left-radius: 5%;
     border-bottom-left-radius: 5%;
-    border: 3px solid brown;
+    border: 3px solid blue;
     border-right: 0px transparent;
     
 }
