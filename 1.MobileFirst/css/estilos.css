@@ -1,4 +1,4 @@
-            /* Mobile First */
+            /* Mobile First: Min-width 470px */
             @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:wght@100;300;400;500&display=swap');
 * {
     font-family: 'Roboto', sans-serif;
@@ -39,6 +39,7 @@ section article {
 }
 article {
     background-color:aliceblue;
+    height: 203px;
 }
 article {
     border-bottom: 0,5px solid black;
