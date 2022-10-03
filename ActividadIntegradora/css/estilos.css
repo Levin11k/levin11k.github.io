@@ -1,5 +1,5 @@
 .imagenFondo {
-    background-image: url("/img/ba1.jpg");
+    background-image: url("ActividadIntegradora/ba1.jpg");
     background-size: cover;
     height:500px;
     width: 100%;
@@ -23,7 +23,7 @@ h1 {
 }
 
 .fondoPlaya {
-    background-image: url("/img/honolulu.jpg");
+    background-image: url("ActividadIntegradora/honolulu.jpg");
     background-size:cover;
     height:500px;
 }
