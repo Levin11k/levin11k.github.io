@@ -1,0 +1,45 @@
+.imagenFondo {
+    background-image: url("/img/ba1.jpg");
+    background-size: cover;
+    height:500px;
+    width: 100%;
+    box-shadow: inset 10px 10px 300px 200px rgb(0 0 0 / 60%);
+}
+
+.cajas {
+    height: 100px;
+}
+
+h1 {
+    color: white;
+}
+
+.enlaceVerde {
+    color:green !important;
+}
+
+.texto-chico, span {
+    font-size: small;
+}
+
+.fondoPlaya {
+    background-image: url("/img/honolulu.jpg");
+    background-size:cover;
+    height:500px;
+}
+
+.subrayadoDePuntos {
+    border-bottom: 1.5px dotted black;
+    text-decoration: none;
+    padding: 0;
+    font-size: 16px;
+}
+
+.botonDeFormulario {
+    background-color: rgb(113, 169, 57) !important;
+}
+
+.pie {
+    background: linear-gradient(90deg, rgba(7,5,36,1) 69%, rgba(33,87,98,1) 100%);
+    height: 5rem;
+}
